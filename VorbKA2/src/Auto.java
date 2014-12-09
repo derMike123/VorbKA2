@@ -42,7 +42,8 @@ public class Auto {
 		this.kennzeichen = kennzeichen;
 		this.hubraum = hubraum;
 		this.sitzplaetze = sitzplaetze;
-		this.fNr = fNr;
+		this.fNr = fNr; 
+		
 		}
 	
 	public Auto (String fNr){
